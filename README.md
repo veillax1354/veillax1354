@@ -13,6 +13,12 @@ Recent Activity:
 
 [![Veillax's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veillax135&theme=tokyoknight)](https://github.com/Veillax135/dice-roller-python)
 -->
+
+
+Profile Views:
+
+![Visitor Count](https://profile-counter.glitch.me/Veillax135/count.svg)
+
 Github Stats:
 
 ![Veillax's Github stats](https://github-readme-stats.vercel.app/api?username=Veillax135&count_private=true&show_icons=true&theme=tokyonight)
