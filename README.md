@@ -5,7 +5,7 @@ I'm learning Python and HTML right now, so I'm not really great at it. I've been
 
 Current Projects:
 
-[![Dice Roller](https://github-readme-stats.vercel.app/api/pin/?username=Veillax135&repo=dice-roller-python&theme=tokyonight)](https://github.com/Veillax135/dice-roller-python)
+[![Dice Roller](https://github-readme-stats.vercel.app/api/pin/?username=Veillax135&repo=python-multiproject&theme=tokyonight)](https://github.com/Veillax135/python-multiproject)
 [![Website](https://github-readme-stats.vercel.app/api/pin/?username=Veillax135&repo=veillax135.github.io&theme=tokyonight)](https://github.com/Veillax135/veillax135.github.io)
 
 <!--
