@@ -22,9 +22,12 @@ Profile Views:
 Github Stats:
 
 ![Veillax's Github stats](https://github-readme-stats.vercel.app/api?username=Veillax135&count_private=true&show_icons=true&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Veillax135&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,html,css,js,blender,atom,visualstudio,vscode)](https://skills.thijs.gg)
+
+
