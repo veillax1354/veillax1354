@@ -1,5 +1,5 @@
 ## Hi! I'm Veillax!
-I'm learning Python and HTML right now, so I'm not really great at it. I've been working on projects, and might be better soon!
+I'm learning Python, HTML, and CSS right now, but I'm not really great at it. I've been working on projects, and I hope my skills improve soon!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veillax135&layout=compact&theme=tokyonight)](https://github.com/Veillax135/dice-roller-python)
 
