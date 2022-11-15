@@ -1,5 +1,5 @@
-### Hey there!
-# Hey! I'm Veillax! I'm learning Python and HTML right now, so I'm not really great at it. I've been working on projects, and might be better soon!
+## Hey there!
+### Hey! I'm Veillax! I'm learning Python and HTML right now, so I'm not really great at it. I've been working on projects, and might be better soon!
 Current Projects:
   
     WIP
