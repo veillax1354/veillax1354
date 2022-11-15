@@ -27,4 +27,4 @@ Github Stats:
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,html,css,js)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,html,css,js,blender,atom,visualstudio,vscode)](https://skills.thijs.gg)
