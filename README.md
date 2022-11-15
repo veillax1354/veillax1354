@@ -13,7 +13,7 @@ Recent Activity:
 
 [![Veillax's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veillax135&theme=tokyoknight)](https://github.com/Veillax135/dice-roller-python)
 -->
-
+![Snake animation](https://github.com/Veillax135/Veillax135/blob/output/github-contribution-grid-snake.svg)
 
 Profile Views:
 
