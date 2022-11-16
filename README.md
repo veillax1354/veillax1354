@@ -1,13 +1,7 @@
 ## Hi! I'm Veillax!
 I'm learning Python, HTML, and CSS right now, but I'm not really great at it. I've been working on projects, and I hope my skills improve soon!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veillax135&layout=compact&theme=tokyonight)](https://github.com/Veillax135/dice-roller-python)
-
----
-
-### :fire: Github Stats:
-
-![Veillax's Github stats](https://github-readme-stats.vercel.app/api?username=Veillax135&count_private=true&show_icons=true&theme=tokyonight)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Veillax135&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veillax135&layout=compact&theme=tokyonight)](https://github.com/Veillax135/#)
 
 ---
 
@@ -18,20 +12,26 @@ I'm learning Python, HTML, and CSS right now, but I'm not really great at it. I'
 
 ---
 
+### :hammer_and_wrench: Languages and Tools :
+
+[![My Skills](https://skills.thijs.gg/icons?i=py,html,css,js,blender,atom,visualstudio,vscode)](https://github.com/Veillax135/#)
+
+---
+
+### :fire: Github Stats:
+
+![Veillax's Github stats](https://github-readme-stats.vercel.app/api?username=Veillax135&count_private=true&show_icons=true&theme=tokyonight)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Veillax135&theme=dark&background=000000)](https://github.com/Veillax135/#)
+
+---
+
 ### :star2: Commit History
 
-![Snake animation](https://github.com/Veillax135/Veillax135/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/Veillax135/Veillax135/blob/output/github-contribution-grid-snake.svg)](https://github.com/Veillax135?tab=overview&from=2022-11-01&to=2022-11-15)
 
 ---
 
 ### :eyes: Profile Views:
 
 ![Visitor Count](https://profile-counter.glitch.me/Veillax135/count.svg)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-[![My Skills](https://skills.thijs.gg/icons?i=py,html,css,js,blender,atom,visualstudio,vscode)](https://github.com/Veillax135)
 
 
