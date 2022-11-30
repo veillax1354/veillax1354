@@ -20,8 +20,8 @@ I'm learning Python, HTML, and CSS right now, but I'm not really great at it. I'
 
 ### :fire: Github Stats:
 
-![Veillax's Github Stats](https://github-readme-stats.vercel.app/api?username=Veillax135&show_icons=true&count_private=true&theme=tokyonight)
-![Veillax's Github Stats 2](http://github-readme-streak-stats.herokuapp.com?user=Veillax135&theme=dark&background=000000)](https://github.com/Veillax135/#)
+[![Veillax's Github Stats](https://github-readme-stats.vercel.app/api?username=Veillax135&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Veillax135/#)
+[![Veillax's Github Stats 2](http://github-readme-streak-stats.herokuapp.com?user=Veillax135&theme=dark&background=000000)](https://github.com/Veillax135/#)
 
 ---
 
