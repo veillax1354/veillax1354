@@ -1,7 +1,7 @@
 ## Hi! I'm Veillax!
 I'm learning Python, HTML, and CSS right now, but I'm not really great at it. I've been working on projects, and I hope my skills improve soon!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veillax1354&layout=normal&theme=tokyonight)](https://github.com/veillax1354/#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veillax1354&layout=compact&theme=tokyonight)](https://github.com/veillax1354/#)
 
 ---
 
