@@ -1,13 +1,15 @@
 ## Hi! I'm Veillax!
 I'm learning Python, HTML, and CSS right now, but I'm not really great at it. I've been working on projects, and I hope my skills improve soon!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veillax1354&layout=compact&theme=tokyonight)](https://github.com/veillax1354/#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veillax&layout=compact&theme=tokyonight)](https://github.com/veillax/#)
 
 ---
 
 ### :keyboard: Current Projects:
 
-Nothing so far
+[![Website](https://github-readme-stats.vercel.app/api/pin/?username=veillax135&repo=veillax135.github.io&theme=tokyonight)](https://github.com/veillax135/veillax135.github.io)
+[![Website](https://github-readme-stats.vercel.app/api/pin/?username=veillax1354&repo=Canvas-Spreadsheet-Integration&theme=tokyonight)](https://github.com/veillax1354/Canvas-Spreadsheet-Integration)  
+[![Website](https://github-readme-stats.vercel.app/api/pin/?username=veillax&repo=veillax.github.io&theme=tokyonight)](https://github.com/veillax/veillax.github.io)  
 
 ---
 
@@ -24,8 +26,6 @@ Nothing so far
 [![Android Studio](https://skills.thijs.gg/icons?i=androidstudio)](https://developer.android.com/studio)
 
 [![Blender](https://skills.thijs.gg/icons?i=blender)](https://www.blender.org/)
-
-
 
 ---
 
@@ -45,5 +45,4 @@ Nothing so far
 ### :eyes: Profile Views:
 
 ![Visitor Count](https://profile-counter.glitch.me/veillax1354/count.svg)
-
 
