@@ -4,11 +4,11 @@ I'm a Python Dev who makes his own tools for everything
 My name is pronounced like this:  
 `ˈviːɪlæks`
 
-`ˈ` - indicates stress on the first syllable
-`vi`ː - long "ee" sound, like in "meet" or "seen"
-`ɪ` - i sound like in "ill"
-`læ` - same as "la" in "relax", a combination of 'l' and 'a' sounds
-`ks` - same as "x" in "relax", a combination of "k" and "s" sounds
+`ˈ` - indicates stress on the first syllable  
+`vi`ː - long "ee" sound, like in "meet" or "seen"  
+`ɪ` - i sound like in "ill"  
+`læ` - same as "la" in "relax", a combination of 'l' and 'a' sounds  
+`ks` - same as "x" in "relax", a combination of "k" and "s" sounds  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veillax&layout=compact&theme=tokyonight)](https://github.com/veillax/#)
