@@ -11,7 +11,7 @@ My name is pronounced like this:
 `ks` - same as "x" in "relax", a combination of "k" and "s" sounds  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veillax&layout=compact&theme=tokyonight)](https://github.com/veillax/#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veillax1354&layout=compact&theme=tokyonight)](https://github.com/veillax1354/#)
 
 ---
 
